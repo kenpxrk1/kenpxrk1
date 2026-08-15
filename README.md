@@ -1,5 +1,5 @@
 # Hi, I'm Dima! 👋 
-## 20 y.o backend developer from Moscow 
+## 22 y.o backend developer from Moscow 
 ![Profile Views](https://komarev.com/ghpvc/?username=kenpxrk1&color=blueviolet)
 
 ## 🛠️ Technologies and Tools
